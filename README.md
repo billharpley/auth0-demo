@@ -1,2 +1,3 @@
 # auth0-demo
-Coding practice for Auth0: not intended for public consumption!
+This is a set of scripts to develop automation skills for Auth0 administration tasks. These are not intended for use on any live systems!
+
